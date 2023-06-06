@@ -72,4 +72,14 @@ public class Prodotto {
         return prezzo + (prezzo * iva / 100);
     }
 
+    @Override
+    public String toString() {
+        return "Prodotto{" +
+                "codice=" + codice +
+                ", nome='" + nome + '\'' +
+                ", descrizione='" + descrizione + '\'' +
+                ", prezzo=" + prezzo +
+                ", iva=" + iva +
+                '}';
+    }
 }
