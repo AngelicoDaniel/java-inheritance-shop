@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61eac9eb-2502-4bcc-90b3-80bb937e3d77" name="Changes" comment="prova con smartphone">
+    <list default="true" id="61eac9eb-2502-4bcc-90b3-80bb937e3d77" name="Changes" comment="carrello switch case">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/lessons/java/shop/Carrello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/shop/Carrello.java" afterDir="false" />
     </list>
@@ -73,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686057231279</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="carrello switch case">
+      <created>1686057988533</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686057988533</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -81,6 +88,7 @@
     <MESSAGE value="prodotti" />
     <MESSAGE value="inizio carrello" />
     <MESSAGE value="prova con smartphone" />
-    <option name="LAST_COMMIT_MESSAGE" value="prova con smartphone" />
+    <MESSAGE value="carrello switch case" />
+    <option name="LAST_COMMIT_MESSAGE" value="carrello switch case" />
   </component>
 </project>
