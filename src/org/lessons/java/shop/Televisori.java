@@ -24,6 +24,6 @@ public class Televisori extends Prodotto{
         return "Televisori{" +
                 "dimensioni=" + dimensioni +
                 ", isSmart=" + isSmart +
-                '}';
+                "} " + super.toString();
     }
 }

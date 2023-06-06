@@ -23,6 +23,6 @@ public class Cuffie  extends Prodotto{
         return "Cuffie{" +
                 "colore='" + colore + '\'' +
                 ", isWireless=" + isWireless +
-                '}';
+                "} " + super.toString();
     }
 }
